@@ -1,3 +1,1 @@
 # HelloWorldJava Readme
-
--ciao
