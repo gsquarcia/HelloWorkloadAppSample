@@ -6,9 +6,12 @@ public class Main {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("ciaos");
+		printHello("ciao");
 	}
 	
+	public static void printHello(String msg){
+		System.out.println(msg);
+	}
 	
 
 }
