@@ -1,1 +1,1 @@
-# HelloWorkloadAppSample
+# HelloWorldJava Readme
